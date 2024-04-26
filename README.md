@@ -1,13 +1,12 @@
 <h1 align="center">Hello 👋, I'm Shweta Pawar</h1>
-<h3 align="center">A passionate frontend developer and would like to explore more about web development.</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetapawar0705&label=Profile%20views&color=0e75b6&style=flat" alt="shwetapawar0705" /> </p>
 
-- 🔭 I’m currently pursuing **Bachelor of Engineering**
+- 🔭 I’m currently pursuing **Post Graduate Diploma in Artificial Intelligence**
 
-- 🌱 I’m currently learning **Python,frontend web development**
+- 🌱 I’m currently learning **Python,Data Analytics, Machine Learning, Natural language processing and Computer Vision**
 
-- 👯 I’m looking to collaborate on **Frontend and Backend developments**
 
 - 📫 How to reach me **pawarshweta135@gmail.com**
 
